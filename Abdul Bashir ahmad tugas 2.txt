@@ -1,2 +1,5 @@
-1. Software Design
-2. Membuat aplikasi Toko Herbal Online
+1. Merancang aplikasi Toko Herbal Online berbasis android
+2. Permasalahan:
+   Pelanggan diluar kota atau yang rumahnya jauh masih kesulitan dalam melakukan transaksi dikarenakan jarak yang jauh untuk datang ke toko. 
+   
+   Berdasarkan permasalahan diatas kami akan merancang aplikasi e-commerce berupa toko herbal yang mana pengoperasiannya dilakukan di android
